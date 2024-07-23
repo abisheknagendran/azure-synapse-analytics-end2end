@@ -944,7 +944,7 @@
                 },
                 "nodeSize": "[parameters('synapseSparkPoolNodeSize')]",
                 "nodeSizeFamily": "MemoryOptimized",
-                "sparkVersion": "3.0",
+                "sparkVersion": "3.3",
                 "autoScale": {
                   "enabled": true,
                   "minNodeCount": "[parameters('synapseSparkPoolMinNodeCount')]",
